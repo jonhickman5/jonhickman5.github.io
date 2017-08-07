@@ -1,0 +1,10 @@
+.gif-background {
+  background-image: url("/source/images/about_me_background.jpeg");
+  background-size: cover;
+  height: 100vh; }
+
+#intro-name-box {
+  padding-top: 45vh; }
+
+#intro-name {
+  color: white; }

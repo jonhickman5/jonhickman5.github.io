@@ -1,0 +1,16 @@
+#aboutme {
+  background-color: tan; }
+
+.image-fill {
+  max-height: 100%;
+  max-width: 100%; }
+
+#headshot-box {
+  padding: 1%; }
+
+ul {
+  list-style-type: none; }
+
+.social-media-box {
+  height: 5em;
+  margin-top: 1em; }

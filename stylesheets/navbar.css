@@ -1,0 +1,21 @@
+.navbar {
+  background-color: rgba(85, 74, 58, 0.81);
+  margin: 0;
+  padding: 0;
+  border: 0;
+  position: fixed;
+  right: 0;
+  left: 0;
+  z-index: 1030;
+  top: 0; }
+
+.navbar-brand {
+  background: rgba(10, 7, 78, 0.84); }
+
+a {
+  color: #31b3be !important;
+  font-size: 1em; }
+
+div {
+  margin: 0;
+  padding: 0; }
